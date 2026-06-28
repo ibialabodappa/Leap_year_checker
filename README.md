@@ -14,10 +14,12 @@ leap_year.py
 
 ## Example Output
 ```bash
-enter a year to check if its a leap year: 2000
+enter a year to check
+if its a leap year: 2000
 True
 
-enter a year to check if its a leap year: 1900
+enter a year to check
+if its a leap year: 1900
 False
 ```
 ## Built with 
