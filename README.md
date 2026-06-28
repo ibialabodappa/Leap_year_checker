@@ -1,5 +1,6 @@
 # Leap Year Checker 
-A simple python function that checke=s whether a given year is a leap year 
+A simple python function that checkes whether a given year is a leap year 
+using python def function,Try and Except function in python 
 ## How It Works
 A Year is the leap year if:
 -it id divisible by 4 
@@ -11,6 +12,18 @@ Run the script and enter a year when prompt:
 leap_year.py
 ```
 
-## Example
+## Example Output
+```bash
+enter a year to check if its a leap year: 2000
+True
+
+enter a year to check if its a leap year: 1900
+False
+```
+## Built with 
+pycharm
+
+## Author
+
 
 
